@@ -10,6 +10,7 @@ let App = React.createClass({
                         <li><Router.Link to="home">Home</Router.Link></li>
                         <li><Router.Link to="news">News</Router.Link></li>
                         <li><Router.Link to="about">About</Router.Link></li>
+                        <li><Router.Link to="ideal-gas-law">Ideal Gas Law Calculator</Router.Link></li>
                     </ul>
                 </nav>
 
